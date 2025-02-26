@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <!-- Background -->
+  <rect width="800" height="450" fill="#ffffff" />
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="#2c3e50" />
+  <text x="20" y="40" font-family="Arial" font-size="24" font-weight="bold" fill="#ffffff">[Your Name] | One-on-One Meeting - [Date]</text>
+  
+  <!-- Left Column - Progress & Achievements -->
+  <rect x="20" y="70" width="370" height="170" rx="5" fill="#ecf0f1" />
+  <text x="30" y="95" font-family="Arial" font-size="18" font-weight="bold" fill="#2c3e50">Progress Since Last Meeting</text>
+  
+  <!-- Accomplishments with checkmarks -->
+  <circle cx="40" cy="120" r="5" fill="#27ae60"/>
+  <text x="55" y="125" font-family="Arial" font-size="15" fill="#34495e">[Key accomplishment 1]</text>
+  
+  <circle cx="40" cy="145" r="5" fill="#27ae60"/>
+  <text x="55" y="150" font-family="Arial" font-size="15" fill="#34495e">[Key accomplishment 2]</text>
+  
+  <circle cx="40" cy="170" r="5" fill="#27ae60"/>
+  <text x="55" y="175" font-family="Arial" font-size="15" fill="#34495e">[Key accomplishment 3]</text>
+  
+  <circle cx="40" cy="195" r="5" fill="#27ae60"/>
+  <text x="55" y="200" font-family="Arial" font-size="15" fill="#34495e">[Additional achievement]</text>
+  
+  <circle cx="40" cy="220" r="5" fill="#27ae60"/>
+  <text x="55" y="225" font-family="Arial" font-size="15" fill="#34495e">[Growth/learning item]</text>
+  
+  <!-- Right Column - Current Challenges -->
+  <rect x="410" y="70" width="370" height="170" rx="5" fill="#ecf0f1" />
+  <text x="420" y="95" font-family="Arial" font-size="18" font-weight="bold" fill="#2c3e50">Current Challenges</text>
+  
+  <!-- Challenges -->
+  <circle cx="430" cy="120" r="5" fill="#e74c3c"/>
+  <text x="445" y="125" font-family="Arial" font-size="15" fill="#34495e">[Challenge 1]</text>
+  <text x="455" y="145" font-family="Arial" font-size="13" fill="#7f8c8d" font-style="italic">Possible solution: [Idea]</text>
+  
+  <circle cx="430" cy="170" r="5" fill="#e74c3c"/>
+  <text x="445" y="175" font-family="Arial" font-size="15" fill="#34495e">[Challenge 2]</text>
+  <text x="455" y="195" font-family="Arial" font-size="13" fill="#7f8c8d" font-style="italic">Possible solution: [Idea]</text>
+  
+  <circle cx="430" cy="220" r="5" fill="#e74c3c"/>
+  <text x="445" y="225" font-family="Arial" font-size="15" fill="#34495e">[Resource needed]</text>
+  
+  <!-- Middle Section - Goals & Priorities -->
+  <rect x="20" y="250" width="760" height="90" rx="5" fill="#d6eaf8" />
+  <text x="30" y="275" font-family="Arial" font-size="18" font-weight="bold" fill="#2c3e50">Goals & Priorities</text>
+  
+  <!-- Short-term Goals -->
+  <text x="40" y="300" font-family="Arial" font-size="15" font-weight="bold" fill="#3498db">Short-term (2 weeks):</text>
+  <text x="220" y="300" font-family="Arial" font-size="15" fill="#34495e">[Goal 1], [Goal 2]</text>
+  
+  <!-- Medium-term Goals -->
+  <text x="40" y="325" font-family="Arial" font-size="15" font-weight="bold" fill="#9b59b6">Medium-term (Quarter):</text>
+  <text x="220" y="325" font-family="Arial" font-size="15" fill="#34495e">[Goal 3], [Goal 4]</text>
+  
+  <!-- Bottom Section - Areas for Feedback & Discussion -->
+  <rect x="20" y="350" width="760" height="80" rx="5" fill="#fef9e7" />
+  <text x="30" y="375" font-family="Arial" font-size="18" font-weight="bold" fill="#2c3e50">For Discussion</text>
+  
+  <!-- Discussion Points -->
+  <text x="50" y="400" font-family="Arial" font-size="15" fill="#34495e">• [Career development topic]</text>
+  <text x="290" y="400" font-family="Arial" font-size="15" fill="#34495e">• [Process improvement idea]</text>
+  <text x="530" y="400" font-family="Arial" font-size="15" fill="#34495e">• [Feedback request]</text>
+  
+  <!-- Personal Note -->
+  <text x="50" y="425" font-family="Arial" font-size="15" fill="#34495e">• [Question for manager]</text>
+  <text x="290" y="425" font-family="Arial" font-size="15" fill="#34495e">• [Team collaboration item]</text>
+  <text x="530" y="425" font-family="Arial" font-size="15" fill="#34495e">• [Work-life balance note]</text>
+  
+  <!-- Footer -->
+  <rect x="0" y="440" width="800" height="10" fill="#2c3e50" />
+</svg>

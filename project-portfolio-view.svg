@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <!-- Background -->
+  <rect width="800" height="450" fill="#ffffff" />
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="#2c3e50" />
+  <text x="20" y="40" font-family="Arial" font-size="24" font-weight="bold" fill="#ffffff">Project Portfolio Status - [Date]</text>
+  
+  <!-- Table Header -->
+  <rect x="20" y="70" width="760" height="40" fill="#34495e" />
+  <text x="40" y="95" font-family="Arial" font-size="16" font-weight="bold" fill="#ffffff">Project</text>
+  <text x="300" y="95" font-family="Arial" font-size="16" font-weight="bold" fill="#ffffff">Status</text>
+  <text x="400" y="95" font-family="Arial" font-size="16" font-weight="bold" fill="#ffffff">Progress</text>
+  <text x="550" y="95" font-family="Arial" font-size="16" font-weight="bold" fill="#ffffff">Key Milestone</text>
+  <text x="700" y="95" font-family="Arial" font-size="16" font-weight="bold" fill="#ffffff">Owner</text>
+  
+  <!-- Project 1 -->
+  <rect x="20" y="110" width="760" height="50" fill="#ecf0f1" />
+  <text x="40" y="140" font-family="Arial" font-size="16" fill="#2c3e50">Data Center Migration</text>
+  
+  <!-- Project 1 Status -->
+  <rect x="300" y="120" width="80" height="30" rx="15" fill="#27ae60" />
+  <text x="340" y="140" font-family="Arial" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">ON TRACK</text>
+  
+  <!-- Project 1 Progress Bar -->
+  <rect x="400" y="125" width="120" height="20" rx="10" fill="#bdc3c7" />
+  <rect x="400" y="125" width="84" height="20" rx="10" fill="#27ae60" />
+  <text x="430" y="140" font-family="Arial" font-size="14" fill="#ffffff">70%</text>
+  
+  <!-- Project 1 Key Milestone -->
+  <text x="550" y="140" font-family="Arial" font-size="14" fill="#2c3e50">Phase 2 Complete (Mar 15)</text>
+  
+  <!-- Project 1 Owner -->
+  <text x="700" y="140" font-family="Arial" font-size="14" fill="#2c3e50">Sarah J.</text>
+  
+  <!-- Project 2 -->
+  <rect x="20" y="160" width="760" height="50" fill="#f5f5f5" />
+  <text x="40" y="190" font-family="Arial" font-size="16" fill="#2c3e50">CRM Implementation</text>
+  
+  <!-- Project 2 Status -->
+  <rect x="300" y="170" width="80" height="30" rx="15" fill="#f39c12" />
+  <text x="340" y="190" font-family="Arial" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">AT RISK</text>
+  
+  <!-- Project 2 Progress Bar -->
+  <rect x="400" y="175" width="120" height="20" rx="10" fill="#bdc3c7" />
+  <rect x="400" y="175" width="48" height="20" rx="10" fill="#f39c12" />
+  <text x="430" y="190" font-family="Arial" font-size="14" fill="#ffffff">40%</text>
+  
+  <!-- Project 2 Key Milestone -->
+  <text x="550" y="190" font-family="Arial" font-size="14" fill="#2c3e50">User Testing (Apr 5)</text>
+  
+  <!-- Project 2 Owner -->
+  <text x="700" y="190" font-family="Arial" font-size="14" fill="#2c3e50">Michael T.</text>
+  
+  <!-- Project 3 -->
+  <rect x="20" y="210" width="760" height="50" fill="#ecf0f1" />
+  <text x="40" y="240" font-family="Arial" font-size="16" fill="#2c3e50">Security Compliance</text>
+  
+  <!-- Project 3 Status -->
+  <rect x="300" y="220" width="80" height="30" rx="15" fill="#e74c3c" />
+  <text x="340" y="240" font-family="Arial" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">BLOCKED</text>
+  
+  <!-- Project 3 Progress Bar -->
+  <rect x="400" y="225" width="120" height="20" rx="10" fill="#bdc3c7" />
+  <rect x="400" y="225" width="66" height="20" rx="10" fill="#e74c3c" />
+  <text x="430" y="240" font-family="Arial" font-size="14" fill="#ffffff">55%</text>
+  
+  <!-- Project 3 Key Milestone -->
+  <text x="550" y="240" font-family="Arial" font-size="14" fill="#2c3e50">Audit Response (Mar 1)</text>
+  
+  <!-- Project 3 Owner -->
+  <text x="700" y="240" font-family="Arial" font-size="14" fill="#2c3e50">James W.</text>
+  
+  <!-- Project 4 -->
+  <rect x="20" y="260" width="760" height="50" fill="#f5f5f5" />
+  <text x="40" y="290" font-family="Arial" font-size="16" fill="#2c3e50">Mobile App Refresh</text>
+  
+  <!-- Project 4 Status -->
+  <rect x="300" y="270" width="80" height="30" rx="15" fill="#3498db" />
+  <text x="340" y="290" font-family="Arial" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">COMPLETED</text>
+  
+  <!-- Project 4 Progress Bar -->
+  <rect x="400" y="275" width="120" height="20" rx="10" fill="#bdc3c7" />
+  <rect x="400" y="275" width="120" height="20" rx="10" fill="#3498db" />
+  <text x="430" y="290" font-family="Arial" font-size="14" fill="#ffffff">100%</text>
+  
+  <!-- Project 4 Key Milestone -->
+  <text x="550" y="290" font-family="Arial" font-size="14" fill="#2c3e50">Launched (Feb 20)</text>
+  
+  <!-- Project 4 Owner -->
+  <text x="700" y="290" font-family="Arial" font-size="14" fill="#2c3e50">Elena R.</text>
+  
+  <!-- Project 5 -->
+  <rect x="20" y="310" width="760" height="50" fill="#ecf0f1" />
+  <text x="40" y="340" font-family="Arial" font-size="16" fill="#2c3e50">Network Upgrade</text>
+  
+  <!-- Project 5 Status -->
+  <rect x="300" y="320" width="80" height="30" rx="15" fill="#27ae60" />
+  <text x="340" y="340" font-family="Arial" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">ON TRACK</text>
+  
+  <!-- Project 5 Progress Bar -->
+  <rect x="400" y="325" width="120" height="20" rx="10" fill="#bdc3c7" />
+  <rect x="400" y="325" width="24" height="20" rx="10" fill="#27ae60" />
+  <text x="430" y="340" font-family="Arial" font-size="14" fill="#ffffff">20%</text>
+  
+  <!-- Project 5 Key Milestone -->
+  <text x="550" y="340" font-family="Arial" font-size="14" fill="#2c3e50">Site 1 Complete (Apr 30)</text>
+  
+  <!-- Project 5 Owner -->
+  <text x="700" y="340" font-family="Arial" font-size="14" fill="#2c3e50">Robert K.</text>
+  
+  <!-- Legend -->
+  <rect x="20" y="380" width="760" height="50" fill="#f9f9f9" />
+  <text x="40" y="410" font-family="Arial" font-size="14" font-weight="bold" fill="#2c3e50">Legend:</text>
+  
+  <!-- Legend Items -->
+  <rect x="120" y="395" width="60" height="20" rx="10" fill="#27ae60" />
+  <text x="150" y="410" font-family="Arial" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">ON TRACK</text>
+  
+  <rect x="200" y="395" width="60" height="20" rx="10" fill="#f39c12" />
+  <text x="230" y="410" font-family="Arial" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">AT RISK</text>
+  
+  <rect x="280" y="395" width="60" height="20" rx="10" fill="#e74c3c" />
+  <text x="310" y="410" font-family="Arial" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">BLOCKED</text>
+  
+  <rect x="360" y="395" width="80" height="20" rx="10" fill="#3498db" />
+  <text x="400" y="410" font-family="Arial" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">COMPLETED</text>
+  
+  <!-- Footer with date info -->
+  <text x="560" y="410" font-family="Arial" font-size="12" fill="#7f8c8d">Last updated: [Date] | Next update: [Date]</text>
+  
+  <!-- Footer bar -->
+  <rect x="0" y="440" width="800" height="10" fill="#2c3e50" />
+</svg>

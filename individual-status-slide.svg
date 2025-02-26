@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <!-- Background -->
+  <rect width="800" height="450" fill="#ffffff" />
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="800" height="60" fill="#2c3e50" />
+  <text x="20" y="40" font-family="Arial" font-size="24" font-weight="bold" fill="#ffffff">[Your Name] - Status Update - [Date]</text>
+  
+  <!-- Status Indicators - UNCOMMENT THE ONE YOU WANT TO DISPLAY -->
+  
+  <!-- ON TRACK Status (Green) -->
+  <rect x="700" y="15" width="80" height="30" rx="15" fill="#27ae60" />
+  <text x="740" y="35" font-family="Arial" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">ON TRACK</text>
+  
+  <!-- AT RISK Status (Yellow) - COMMENTED OUT BY DEFAULT -->
+  <!-- 
+  <rect x="700" y="15" width="80" height="30" rx="15" fill="#f39c12" />
+  <text x="740" y="35" font-family="Arial" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">AT RISK</text>
+  -->
+  
+  <!-- BLOCKED Status (Red) - COMMENTED OUT BY DEFAULT -->
+  <!-- 
+  <rect x="700" y="15" width="80" height="30" rx="15" fill="#e74c3c" />
+  <text x="740" y="35" font-family="Arial" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">BLOCKED</text>
+  -->
+  
+  <!-- COMPLETED Status (Blue) - COMMENTED OUT BY DEFAULT -->
+  <!-- 
+  <rect x="700" y="15" width="80" height="30" rx="15" fill="#3498db" />
+  <text x="740" y="35" font-family="Arial" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">COMPLETED</text>
+  -->
+  
+  
+  <!-- Left Column - Work Completed -->
+  <rect x="20" y="80" width="370" height="210" rx="5" fill="#ecf0f1" />
+  <text x="30" y="105" font-family="Arial" font-size="18" font-weight="bold" fill="#2c3e50">Work Completed</text>
+  
+  <!-- Accomplishments with checkmarks -->
+  <text x="40" y="135" font-family="Arial" font-size="16" fill="#34495e">• [Task 1 completed]</text>
+  <text x="40" y="165" font-family="Arial" font-size="16" fill="#34495e">• [Task 2 completed]</text>
+  <text x="40" y="195" font-family="Arial" font-size="16" fill="#34495e">• [Task 3 completed]</text>
+  <text x="40" y="225" font-family="Arial" font-size="16" fill="#34495e">• [Additional achievement]</text>
+  <text x="40" y="255" font-family="Arial" font-size="16" fill="#34495e">• [Knowledge gained/shared]</text>
+  
+  <!-- Right Column - Current Work & Blockers -->
+  <rect x="410" y="80" width="370" height="210" rx="5" fill="#ecf0f1" />
+  <text x="420" y="105" font-family="Arial" font-size="18" font-weight="bold" fill="#2c3e50">Current Work & Challenges</text>
+  
+  <!-- Current Work -->
+  <text x="420" y="135" font-family="Arial" font-size="16" font-weight="bold" fill="#3498db">In Progress:</text>
+  <text x="440" y="160" font-family="Arial" font-size="16" fill="#34495e">• [Current task 1] - [est. completion]</text>
+  <text x="440" y="185" font-family="Arial" font-size="16" fill="#34495e">• [Current task 2] - [est. completion]</text>
+  
+  <!-- Blockers/Issues -->
+  <text x="420" y="220" font-family="Arial" font-size="16" font-weight="bold" fill="#e74c3c">Blockers/Challenges:</text>
+  <text x="440" y="245" font-family="Arial" font-size="16" fill="#34495e">• [Blocker/challenge 1]</text>
+  <text x="440" y="270" font-family="Arial" font-size="16" fill="#34495e">• [Blocker/challenge 2]</text>
+  
+  <!-- Lower Section - Next Tasks and Help Needed -->
+  <rect x="20" y="310" width="760" height="120" rx="5" fill="#ecf0f1" />
+  
+  <!-- Next Tasks -->
+  <text x="30" y="335" font-family="Arial" font-size="18" font-weight="bold" fill="#2c3e50">Upcoming Tasks</text>
+  <text x="50" y="365" font-family="Arial" font-size="16" fill="#34495e">• [Next task 1] - [priority/timeline]</text>
+  <text x="50" y="395" font-family="Arial" font-size="16" fill="#34495e">• [Next task 2] - [priority/timeline]</text>
+  
+  <!-- Help Needed -->
+  <text x="400" y="335" font-family="Arial" font-size="18" font-weight="bold" fill="#2c3e50">Support Needed</text>
+  <text x="420" y="365" font-family="Arial" font-size="16" fill="#34495e">• [Resource/decision needed 1]</text>
+  <text x="420" y="395" font-family="Arial" font-size="16" fill="#34495e">• [Resource/decision needed 2]</text>
+  
+  <!-- Footer -->
+  <rect x="0" y="440" width="800" height="10" fill="#2c3e50" />
+</svg>
